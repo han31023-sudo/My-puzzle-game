@@ -1,0 +1,14 @@
+{
+  "name": "simple-puzzle-game",
+  "version": "1.0.0",
+  "description": "Simple 4x4 puzzle game for WebView",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --open=./index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "YourName",
+  "license": "MIT"
+}
